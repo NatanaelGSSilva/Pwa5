@@ -10,8 +10,15 @@ workbox.routing.registerRoute(
     /\.(?:js|html|css|jpg|jpeg)$/,
     new workbox.strategies.NetworkFirst()
   );
-  
+  /*
 workbox.routing.registerRoute(
     'http://localhost:3000/',
+    new workbox.strategies.NetworkFirst()
+  );
+*/
+ 
+
+  workbox.routing.registerRoute(
+    'https://natanaelgssilva.github.io/Pwa5/',
     new workbox.strategies.NetworkFirst()
   );
