@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NatanaelGSSilva/Pwa5.git/static/css/main.c165ce0a.chunk.css",
+    "main.js": "/NatanaelGSSilva/Pwa5.git/static/js/main.85740a48.chunk.js",
+    "main.js.map": "/NatanaelGSSilva/Pwa5.git/static/js/main.85740a48.chunk.js.map",
+    "runtime-main.js": "/NatanaelGSSilva/Pwa5.git/static/js/runtime-main.b63e3697.js",
+    "runtime-main.js.map": "/NatanaelGSSilva/Pwa5.git/static/js/runtime-main.b63e3697.js.map",
+    "static/js/2.a49d53d4.chunk.js": "/NatanaelGSSilva/Pwa5.git/static/js/2.a49d53d4.chunk.js",
+    "static/js/2.a49d53d4.chunk.js.map": "/NatanaelGSSilva/Pwa5.git/static/js/2.a49d53d4.chunk.js.map",
+    "index.html": "/NatanaelGSSilva/Pwa5.git/index.html",
+    "precache-manifest.7a0fa454560098e06ade7db65ec90084.js": "/NatanaelGSSilva/Pwa5.git/precache-manifest.7a0fa454560098e06ade7db65ec90084.js",
+    "service-worker.js": "/NatanaelGSSilva/Pwa5.git/service-worker.js",
+    "static/css/main.c165ce0a.chunk.css.map": "/NatanaelGSSilva/Pwa5.git/static/css/main.c165ce0a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63e3697.js",
+    "static/js/2.a49d53d4.chunk.js",
+    "static/css/main.c165ce0a.chunk.css",
+    "static/js/main.85740a48.chunk.js"
+  ]
+}
